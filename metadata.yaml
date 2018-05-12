@@ -1,0 +1,30 @@
+_repo: The-Cathedral-BuildersThe-Story-of-a-Great-Masonic-Guild_42072
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, Leader
+    alias: Baxter, Lucy
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '2384'
+    url: http://www.gutenberg.org/2009/agents/2384
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Baxter
+description: ''
+gutenberg_issued: '2013-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42072'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cathedrals'
+- !lcsh 'Guilds'
+- !lcc 'NA'
+- !lcsh 'Church architecture'
+title: 'The Cathedral Builders: The Story of a Great Masonic Guild'
+url: http://www.gutenberg.org/ebooks/42072
