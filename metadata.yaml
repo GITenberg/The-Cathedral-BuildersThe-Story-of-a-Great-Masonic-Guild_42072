@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2384
     wikipedia: http://en.wikipedia.org/wiki/Lucy_Baxter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42072#The-Cathedral-BuildersThe-Story-of-a-Great-Masonic-Guild
 gutenberg_issued: '2013-02-11'
 gutenberg_type: Text
 identifiers:
